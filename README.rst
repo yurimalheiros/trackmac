@@ -4,8 +4,8 @@ Trackmac
 |PyPI Latest Version|
 
 Trackmac is a command line tool built for OS X users to track their time spent
-on every application.It can also track the websites you visited through
-Chrome or Safari(will add support for more browers soon) every day.
+on every application. It can also track the websites you visited through
+Chrome or Safari (will add support for more browsers soon) every day.
 
 Screenshot here
 
@@ -113,7 +113,7 @@ Full options here
 |:kbd:`--help`           |Show this message and exit.                                          |
 +------------------------+------------------------------------+--------------------------------+
 
-If you do not want to track for some applications,just type
+If you do not want to track for some applications, just type
 
 .. code:: bash
 
